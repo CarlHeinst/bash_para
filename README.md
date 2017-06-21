@@ -1,4 +1,3 @@
-# bash_para
 # Repository of paralell processing bash scripts #
 
 This Repo has been created for my own personal records.
